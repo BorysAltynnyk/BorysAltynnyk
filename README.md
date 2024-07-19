@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BorysAltynnyk
 - 👀 I’m interested in Ethereum Smart Contracts
-- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on dApp projects
 - 📫 BorysAtynnyk@gmail.com
 
